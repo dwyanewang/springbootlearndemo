@@ -1,0 +1,4 @@
+home:
+  province: 湖北
+  city: 孝感
+  desc: 我出生于${home.province}省${home.city}市

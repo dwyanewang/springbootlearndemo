@@ -1,0 +1,10 @@
+home:
+  province: 湖北
+  city: 武汉
+  desc: 我住在${home.province}省${home.city}市
+
+user:
+  id: ${random.long}
+  age: ${random.int(10)}
+  desc: ${random.value}
+  uuid: ${random.uuid}
